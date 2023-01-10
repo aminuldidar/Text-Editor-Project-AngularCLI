@@ -1,0 +1,11 @@
+<div>
+  <button class="btn btn-primary test">Add to My List</button>
+</div>
+<br />
+<div>
+  <!-- Enter Question Id: <input type="text" [(ngModel)]="questionId" /> -->
+  <input type="text" />
+  <button (click)="submitId()" class="btn btn-primary test">Go</button>
+</div>
+
+<div id="viewQuestion" [innerHTML]="testString"></div>

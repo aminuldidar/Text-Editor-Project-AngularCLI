@@ -1,0 +1,49 @@
+/*
+#myEditor {
+    width:750px; 
+    height:300px; 
+    //border: 1px solid black; 
+    border-style: solid;
+    border-width: 2px 4px 1px 4px;
+
+}
+*/
+#myEditor {
+    max-width:50%;
+    min-width:700px;
+    min-height:200px;
+    background: #ffeec0;
+    padding:2px;
+    margin:3px;
+    border-radius: 2px;
+    border:1px solid #ffdd7c;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+ }
+
+ .buttonArea{
+    position: absolute;
+    top: 280px;
+    left: 100px;
+ }
+
+ #viewQuestion {
+    max-width:50%;
+    min-width:700px;
+    min-height:200px;
+    background: #fdfcfa;
+    padding:2px;
+    margin:3px;
+    border-radius: 2px;
+    border:1px solid black;
+    position: absolute;
+    top: 55px;
+    left: 100px;
+ }
+
+ .test {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }

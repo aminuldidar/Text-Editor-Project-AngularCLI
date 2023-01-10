@@ -1,0 +1,12 @@
+#viewQuestion {
+    max-width:50%;
+    min-width:400px;
+    min-height:200px;
+    background: #fdfcfa;
+    padding:2px;
+    margin:3px;
+    border-radius: 2px;
+    border:1px solid black;
+    float:  left;
+    clear: left;
+ }
