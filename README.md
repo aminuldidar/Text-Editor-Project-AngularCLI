@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
-[![Everything Is AWESOME](https://img.youtube.com/watch?v=sBHizcRhIXM/0.jpg)](https://www.youtube.com/watch?v=sBHizcRhIXM)
+[![Presentation Video](https://img.youtube.com/watch?v=sBHizcRhIXM/thumb.png)](https://www.youtube.com/watch?v=sBHizcRhIXM)
 
 ## Development server
 
